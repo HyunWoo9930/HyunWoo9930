@@ -1,14 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunWoo9930)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyunWoo9930&hide=contribs,prs&show_icons=true&theme=graywhite)
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ohw9930)](https://velog.io/@ohw9930/posts)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=HyunWoo9930&theme=whatsapp-light&hide_border=true&date_format=%5BY%20%5DM%20j&mode=weekly)](https://git.io/streak-stats)
-
- ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> Stack Info ... 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> Stack Info ... 
 
 ##### Language : 
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -49,6 +41,18 @@
 
 ##### Security : 
 ![springSecurity](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunWoo9930)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyunWoo9930&hide=contribs,prs&show_icons=true&theme=graywhite)
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ohw9930)](https://velog.io/@ohw9930/posts)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=HyunWoo9930&theme=whatsapp-light&hide_border=true&date_format=%5BY%20%5DM%20j&mode=weekly)](https://git.io/streak-stats)
+
+
 
 
 ##### Solved_ac
