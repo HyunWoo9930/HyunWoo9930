@@ -1,5 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
+![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) hw62459930@gmail.com
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunWoo9930)](https://github.com/anuraghazra/github-readme-stats)
 
