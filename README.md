@@ -1,6 +1,29 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> Stack Info ... 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyunWoo9930%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+### BackEnd and Flutter Engineer
+
+#### Activities
+- AtlasNetworks BackEnd Engineer (2021.11~2024.02)
+  - Spring Boot, Flutter
+- 멋쟁이 사자처럼 12기 (2024.03 ~ 2024.12)
+  - MiniProject 대상
+- 공모전
+  - 고용노동 공공데이터 활용 공모전 ( ~ 2024.07.21)
+- Hackathons
+  - Hufsummer Hackathon (2024.06.28 ~ 2024.06.29)
+  - KAIST SPARCS AI 스타트업 Hackathon (2024.07.29 ~ 2024.08.01)
+  - LikeLion 중앙 Hackathon (2024.08.06 ~ 2024.08.07)
+
+#### Interested In...
+- Spring Boot
+- AWS
+- Docker
+- Flutter
+- Unity
+- AI
+
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> Stack Info ... 
 
 ##### Language : 
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
