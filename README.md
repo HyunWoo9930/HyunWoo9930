@@ -7,7 +7,11 @@
 - AtlasNetworks BackEnd Engineer (2021.11~2024.02)
   - Spring Boot, Flutter
 - 멋쟁이 사자처럼 12기 (2024.03 ~ 2024.12)
-  - MiniProject 대상
+  - MiniProject
+    - 대상
+  - 간지톤 (2024.11.23)
+- 구름톤 유니브 3기
+  - 단품톤 (2024.11.23 ~ 2024.11.24)
 - 공모전
   - 고용노동 공공데이터 활용 공모전 ( ~ 2024.07.21)
 - Hackathons
@@ -15,7 +19,7 @@
   - KAIST SPARCS AI 스타트업 Hackathon (2024.07.29 ~ 2024.08.01)
   - LikeLion 중앙 Hackathon (2024.08.06 ~ 2024.08.07)
   - Hufsthon 융합 Hackathon (2024.11.16)
-    - 최우수상 
+    - 최우수상
 
 #### Interested In...
 - Spring Boot
