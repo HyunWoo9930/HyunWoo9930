@@ -14,6 +14,8 @@
   - Hufsummer Hackathon (2024.06.28 ~ 2024.06.29)
   - KAIST SPARCS AI 스타트업 Hackathon (2024.07.29 ~ 2024.08.01)
   - LikeLion 중앙 Hackathon (2024.08.06 ~ 2024.08.07)
+  - Hufsthon 융합 Hackathon (2024.11.16)
+    - 최우수상 
 
 #### Interested In...
 - Spring Boot
