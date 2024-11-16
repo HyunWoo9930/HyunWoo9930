@@ -8,7 +8,7 @@
   - Spring Boot, Flutter
 - 멋쟁이 사자처럼 12기 (2024.03 ~ 2024.12)
   - MiniProject
-    - 대상
+    - <p>${{\color{#DD6565}대상}}$</p>
   - 간지톤 (2024.11.23)
 - 구름톤 유니브 3기
   - 단품톤 (2024.11.23 ~ 2024.11.24)
@@ -19,7 +19,7 @@
   - KAIST SPARCS AI 스타트업 Hackathon (2024.07.29 ~ 2024.08.01)
   - LikeLion 중앙 Hackathon (2024.08.06 ~ 2024.08.07)
   - Hufsthon 융합 Hackathon (2024.11.16)
-    - 최우수상
+    - <p>$\it{\large{\color{#DD6565}최우수상}}$</p>
 
 #### Interested In...
 - Spring Boot
