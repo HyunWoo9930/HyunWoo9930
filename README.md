@@ -1,8 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyunWoo9930%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ### BackEnd and Flutter Engineer
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hw62459930)](https://velog.io/@hw62459930/posts)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ohw9930)](https://solved.ac/ohw9930/)
 #### Activities
 - AtlasNetworks BackEnd Engineer (2021.11~2024.02)
   - Spring Boot, Flutter
@@ -76,22 +77,6 @@
 
 ##### Security : 
 ![springSecurity](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunWoo9930)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyunWoo9930&hide=contribs,prs&show_icons=true&theme=graywhite)
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ohw9930)](https://velog.io/@ohw9930/posts)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=HyunWoo9930&theme=whatsapp-light&hide_border=true&date_format=%5BY%20%5DM%20j&mode=weekly)](https://git.io/streak-stats)
-
-
-
-
-##### Solved_ac
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ohw9930)](https://solved.ac/ohw9930/)
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
