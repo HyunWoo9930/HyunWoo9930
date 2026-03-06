@@ -14,9 +14,14 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HyunWoo9930&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ohw9930)](https://velog.io/@ohw9930/posts)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ohw9930)](https://solved.ac/ohw9930/)
+<div style="display:flex; justify-content:center; align-items:center; gap:20px;">
+  <a href="https://solved.ac/ohw9930/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ohw9930" alt="Solved.ac Badge" style="width:400px; height:auto;">
+  </a>
+  <a href="https://velog.io/@ohw9930/posts">
+    <img src="https://velog-readme-stats.vercel.app/api?name=ohw9930" alt="Velog Stats" style="width:530px; height:auto;">
+  </a>
+</div>
 
 ## 🚀 Recent Projects
 * **Wedit** — 결혼 준비 통합 플랫폼 *(2025 Kakao X Goorm 시즌톤 우수상)*  
