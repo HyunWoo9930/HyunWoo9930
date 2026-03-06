@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=200&section=header&text=Backend%20Developer&fontSize=50&fontColor=fff" />
 
-### BackEnd and Flutter Engineer
+### BackEnd and Architecture Engineer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HyunWoo9930&color=brightgreen)
 
@@ -41,10 +41,13 @@
   - Spring Boot, Flutter 기반 SKT 하청 프로젝트
 
 ## 🚀 Recent Projects
-- **Wedit** - 결혼 준비 통합 플랫폼 (2025 Kakao X Goorm 시즌톤 우수상)
-  - Spring Boot, QueryDSL, JWT, OAuth2, AWS, Kubernetes
-- **KIS 자동매매 시스템** - 한국투자증권 API 기반 트레이딩 봇
-- **SKT 스위치 데이터 처리 시스템** - 일 1만건+ 데이터 처리
+* **Wedit** — 결혼 준비 통합 플랫폼 *(2025 Kakao X Goorm 시즌톤 우수상)*  
+  - Spring Boot, QueryDSL, JWT, OAuth2, AWS, Kubernetes  
+* **KIS 자동매매 시스템** — 한국투자증권 API 기반 트레이딩 봇  
+* **SKT 스위치 데이터 처리 시스템** — 일 1만건+ 데이터 처리  
+* **rumiClean** — 에어비엔비 호스트와 청소업체를 연결하는 플랫폼  
+  - AWS EC2 기반 Kubernetes(K8s), Prometheus, Grafana, ArgoCD  
+  - 서버 운영 및 모니터링 환경 구축 / 실사용자 QA 진행
 
 ## 🛠️ Tech Stack
 
