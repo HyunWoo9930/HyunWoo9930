@@ -18,6 +18,15 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ohw9930)](https://solved.ac/ohw9930/)
 
+## 🚀 Recent Projects
+* **Wedit** — 결혼 준비 통합 플랫폼 *(2025 Kakao X Goorm 시즌톤 우수상)*  
+  - Spring Boot, QueryDSL, JWT, OAuth2, AWS, Kubernetes  
+* **KIS 자동매매 시스템** — 한국투자증권 API 기반 트레이딩 봇  
+* **SKT 스위치 데이터 처리 시스템** — 일 1만건+ 데이터 처리  
+* **rumiClean** — 에어비엔비 호스트와 청소업체를 연결하는 플랫폼  
+  - AWS EC2 기반 Kubernetes(K8s), Prometheus, Grafana, ArgoCD  
+  - 서버 운영 및 모니터링 환경 구축 / 실사용자 QA 진행
+    
 ## 🏆 Awards & Activities
 
 ### 2026
@@ -39,15 +48,6 @@
 ### 2021 ~ 2024
 - 💼 **AtlasNetworks BackEnd Engineer** (2021.11 ~ 2024.02)
   - Spring Boot, Flutter 기반 SKT 하청 프로젝트
-
-## 🚀 Recent Projects
-* **Wedit** — 결혼 준비 통합 플랫폼 *(2025 Kakao X Goorm 시즌톤 우수상)*  
-  - Spring Boot, QueryDSL, JWT, OAuth2, AWS, Kubernetes  
-* **KIS 자동매매 시스템** — 한국투자증권 API 기반 트레이딩 봇  
-* **SKT 스위치 데이터 처리 시스템** — 일 1만건+ 데이터 처리  
-* **rumiClean** — 에어비엔비 호스트와 청소업체를 연결하는 플랫폼  
-  - AWS EC2 기반 Kubernetes(K8s), Prometheus, Grafana, ArgoCD  
-  - 서버 운영 및 모니터링 환경 구축 / 실사용자 QA 진행
 
 ## 🛠️ Tech Stack
 
