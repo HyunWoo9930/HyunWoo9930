@@ -2,17 +2,6 @@
 
 ### BackEnd and Architecture Engineer
 
-![Profile Views](https://komarev.com/ghpvc/?username=HyunWoo9930&color=brightgreen)
-
-## 💼 Currently
-- 🦁 **SSAFY 15기** (2026.01 ~ )
-- 🎓 한국외국어대학교 전자물리학과/컴퓨터공학부 복수전공
-- 💻 AtlasNetworks 산업기능요원 (Backend Engineer)
-
-## 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HyunWoo9930&theme=tokyonight&hide_border=true)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HyunWoo9930&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div style="display:flex; justify-content:center; align-items:center; gap:20px;">
   <a href="https://solved.ac/ohw9930/">
@@ -23,14 +12,18 @@
   </a>
 </div>
 
+## 💼 Currently
+- 🦁 **SSAFY 15기** (2026.01 ~ )
+- 🎓 한국외국어대학교 전자물리학과/컴퓨터공학부 복수전공
+- 💻 AtlasNetworks 산업기능요원 (Backend Engineer)
+
 ## 🚀 Recent Projects
-* **Wedit** — 결혼 준비 통합 플랫폼 *(2025 Kakao X Goorm 시즌톤 우수상)*  
-  - Spring Boot, QueryDSL, JWT, OAuth2, AWS, Kubernetes  
-* **KIS 자동매매 시스템** — 한국투자증권 API 기반 트레이딩 봇  
-* **SKT 스위치 데이터 처리 시스템** — 일 1만건+ 데이터 처리  
 * **rumiClean** — 에어비엔비 호스트와 청소업체를 연결하는 플랫폼  
   - AWS EC2 기반 Kubernetes(K8s), Prometheus, Grafana, ArgoCD  
-  - 서버 운영 및 모니터링 환경 구축 / 실사용자 QA 진행
+  - 서버 운영 및 모니터링 환경 구축
+  - QA 사이트 운영
+* **Wedit** — 결혼 준비 통합 플랫폼 *(2025 Kakao X Goorm 시즌톤 우수상)*  
+  - Spring Boot, QueryDSL, JWT, OAuth2, AWS, Kubernetes  
     
 ## 🏆 Awards & Activities
 
@@ -53,6 +46,19 @@
 ### 2021 ~ 2024
 - 💼 **AtlasNetworks BackEnd Engineer** (2021.11 ~ 2024.02)
   - Spring Boot, Flutter 기반 SKT 하청 프로젝트
+
+## 🥈Certificate
+- TOEIC 830 (2025.11.06)
+- SQLD (2026.03.20)
+- SW 역량 A형 (2026.02.19)
+- 정보처리기능사 (2023.09.20)
+- 정보처리기사 필기 (2025.08.13)
+- Opic IM1 (2026.02.20)
+
+## 📌 Blog & Contact
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@ohw9930)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HyunWoo9930)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hw62459930@gmail.com)
 
 ## 🛠️ Tech Stack
 
@@ -91,9 +97,11 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
-## 📌 Blog & Contact
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@ohw9930)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HyunWoo9930)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hw62459930@gmail.com)
+## 📊 GitHub Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HyunWoo9930&theme=tokyonight&hide_border=true)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HyunWoo9930&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=HyunWoo9930&color=brightgreen)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=150&section=footer" />
