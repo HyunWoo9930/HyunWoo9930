@@ -61,12 +61,12 @@
   - Spring Boot, Flutter 기반 SKT 하청 프로젝트
 
 ## 🥈Certificate
-- 정보처리기사 (2026.06.12)
-- Samsung SW 역량테스트 A형 (2026.02.19)
-- SQLD (2026.03.20)
-- 정보처리기능사 (2023.09.20)
-- TOEIC 830 (2025.11.06)
-- Opic IM1 (2026.02.20)
+- **정보처리기사** (2026.06.12)
+- **Samsung SW 역량테스트 A형** (2026.02.19)
+- **SQLD** (2026.03.20)
+- **정보처리기능사** (2023.09.20)
+- **TOEIC 830** (2025.11.06)
+- **Opic IM1** (2026.02.20)
 
 ## 📌 Blog & Contact
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@ohw9930)
